@@ -1,0 +1,9 @@
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\bin\Release\CryptoPriceViewer.exe.config
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\bin\Release\coins.xml
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\bin\Release\CryptoPriceViewer.exe
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\bin\Release\CryptoPriceViewer.pdb
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\obj\Release\CryptoPriceViewer.Form1.resources
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\obj\Release\CryptoPriceViewer.Properties.Resources.resources
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\obj\Release\CryptoPriceViewer.csproj.GenerateResource.Cache
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\obj\Release\CryptoPriceViewer.exe
+C:\Users\Bit\documents\visual studio 2015\Projects\CryptoPriceViewer\CryptoPriceViewer\obj\Release\CryptoPriceViewer.pdb
