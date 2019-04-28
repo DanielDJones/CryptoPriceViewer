@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cryptoList>
+  <coin>
+    <url>https://coinmarketcap.com/currencies/bitcoin/</url>
+    <held>0.015</held>
+    <name>Bitcoin</name>
+  </coin>
+  <coin>
+    <url>https://coinmarketcap.com/currencies/ethereum/</url>
+    <held>100</held>
+    <name>Ethereum</name>
+  </coin>
+  <coin>
+    <url>https://coinmarketcap.com/currencies/ripple/</url>
+    <held>1000</held>
+    <name>XRP</name>
+  </coin>
+</cryptoList>
